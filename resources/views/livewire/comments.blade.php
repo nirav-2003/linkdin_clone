@@ -29,7 +29,8 @@
                             <textarea type="text" id="addANote" class="form-control" placeholder="Type Post..." wire:model='newcomment'
                                 name='postname'></textarea>
 
-                            {{-- image Icon --}}
+                            {{-- image Icodssdsdsdn --}}
+                            <div>dss</div>
                             <label for="fileInput" class="btn-link" title="Post an Image" data-toggle="tooltip">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
                                     fill="currentColor" class="bi bi-camera-fill" viewBox="0 0 16 16">
